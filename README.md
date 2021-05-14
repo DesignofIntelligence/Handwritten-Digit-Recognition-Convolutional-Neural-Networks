@@ -2,6 +2,8 @@
 # Handwritten-Digit-Recognition-Convolutional-Neural-Networks
 A Convolutional Neural Network that is able to recognize handwritten digits. trained network (.h5 file) and training data are included.
 
+Dataset used: MNIST
+
 Model Summary:
 1st Layer: Convolutional layer, with 64 filters of 3x3 kernel size, Then an 
 activation function relu, then Max Pooling of size 2x2.
