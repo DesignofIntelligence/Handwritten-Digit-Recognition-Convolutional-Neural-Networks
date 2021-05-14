@@ -1,3 +1,4 @@
+
 # Handwritten-Digit-Recognition-Convolutional-Neural-Networks
 A Convolutional Neural Network that is able to recognize handwritten digits. trained network (.h5 file) and training data are included.
 
@@ -36,3 +37,5 @@ Keras Version: 2.4.3
 NumPy Version: 1.19.5
 OpenCV Version: 4.5.1.48
 Matplotlib: 3.3.3
+![Model preview 1](https://user-images.githubusercontent.com/49645682/118280040-185ce000-b4cc-11eb-8a4e-26fee8242099.png)
+![Model preview 2](https://user-images.githubusercontent.com/49645682/118280122-31659100-b4cc-11eb-8dd1-eda82ea9e9c1.png)
